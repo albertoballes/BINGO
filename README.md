@@ -1,2 +1,2 @@
 # BINGO
- Bingo hecho usando HTML, CSS, y Javascript.
+ Bingo creado usando HTML, CSS, y Javascript.
